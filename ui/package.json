@@ -34,7 +34,7 @@
     "eslint": "9.9.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-svelte": "2.43.0",
-    "fraction.js": "4.3.7",
+    "fraction.js": "5.2.1",
     "globals": "15.9.0",
     "jsdom": "24.1.1",
     "postcss": "8.4.41",
