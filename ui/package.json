@@ -22,7 +22,7 @@
     "@melt-ui/svelte": "0.83.0",
     "@playwright/test": "1.46.1",
     "@sveltejs/adapter-node": "5.2.2",
-    "@sveltejs/kit": "2.5.24",
+    "@sveltejs/kit": "2.8.3",
     "@sveltejs/vite-plugin-svelte": "3.1.2",
     "@tailwindcss/typography": "0.5.14",
     "@testing-library/jest-dom": "6.4.8",
