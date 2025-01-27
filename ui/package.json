@@ -32,7 +32,7 @@
     "daisyui": "4.12.10",
     "dayjs": "1.11.13",
     "eslint": "9.9.0",
-    "eslint-config-prettier": "9.1.0",
+    "eslint-config-prettier": "10.0.1",
     "eslint-plugin-svelte": "2.43.0",
     "fraction.js": "4.3.7",
     "globals": "15.9.0",
